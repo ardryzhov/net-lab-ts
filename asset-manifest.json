@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/net-lab-ts/static/css/main.2ea231ab.css",
-    "main.js": "/net-lab-ts/static/js/main.430f56d5.js",
+    "main.js": "/net-lab-ts/static/js/main.ddd96819.js",
     "static/media/LetoSans-Regular.eot": "/net-lab-ts/static/media/LetoSans-Regular.6355d35383c62a1be57c.eot",
     "static/media/LetoSans-Bold.eot": "/net-lab-ts/static/media/LetoSans-Bold.ff800d165e729848da64.eot",
     "static/media/LetoSans-Regular.ttf": "/net-lab-ts/static/media/LetoSans-Regular.d31048b1041e1574c944.ttf",
@@ -15,10 +15,10 @@
     "index.html": "/net-lab-ts/index.html",
     "static/media/selectArrow.svg": "/net-lab-ts/static/media/selectArrow.8f1f177428403ee7ad70e14c260b17b9.svg",
     "main.2ea231ab.css.map": "/net-lab-ts/static/css/main.2ea231ab.css.map",
-    "main.430f56d5.js.map": "/net-lab-ts/static/js/main.430f56d5.js.map"
+    "main.ddd96819.js.map": "/net-lab-ts/static/js/main.ddd96819.js.map"
   },
   "entrypoints": [
     "static/css/main.2ea231ab.css",
-    "static/js/main.430f56d5.js"
+    "static/js/main.ddd96819.js"
   ]
 }
