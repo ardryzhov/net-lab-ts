@@ -1,0 +1,41 @@
+.buttons-wrap {
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+
+	button {
+		border-radius: 48px;
+		padding: 15px 0px;
+		border: none;
+		outline: none;
+		font-size: 1rem;
+		text-align: center;
+		width: 100%;
+		color: #fff;
+		font-weight: 600;
+		cursor: pointer;
+	}
+
+	.btn_clear {
+		width: 35%;
+		button {
+			&.btn__on {
+				background-color: #13C98A;
+				cursor: pointer;
+			}
+			&.btn__of {
+				cursor: not-allowed;
+				background-color: #bdbdbd;
+			}
+		}
+	}
+
+	.btn_send {
+		width: 60%;
+		button {
+			background-color: #13C98A;
+		}
+	}
+}

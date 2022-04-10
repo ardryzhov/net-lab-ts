@@ -1,0 +1,42 @@
+.content__inputs {
+	.input_field {
+		position: relative;
+
+		label {
+			position: absolute;
+			top: 45%;
+			left: 17px;
+			font-size: 14px;
+			pointer-events: none;
+			color: #828282;
+			font-size: 1rem;
+		}
+
+		input {
+			width: calc(100% - 17px);
+			padding: 22px 0px 18px 15px;
+			margin: 16px 0px 0px;
+			outline: none;
+			border: 2px solid #9B99AA;
+			border-radius: 5px;
+			font-size: 1rem;
+
+			&:focus, &:hover {
+				border: 2px solid #4f4f4f;
+			}
+		}
+
+		img {
+			position: absolute;
+			right: 10px;
+			top: 45%;
+			opacity: 0;
+			pointer-events: none;
+
+			&.warning, &.success {
+				opacity: 1;
+			}
+		}
+	}
+
+}

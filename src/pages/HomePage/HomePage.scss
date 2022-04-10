@@ -1,0 +1,40 @@
+.homepage__wrap {
+	display: flex;
+	flex-direction: column;
+
+	.homepage__title {
+		margin-top: 88px;
+	}
+
+	.homepage__data {
+		margin: 24px 0px;
+
+		.data__info {
+			label	{
+				font-weight: 600;
+			}
+		}
+	}
+
+	.homepage__btn {
+		margin-top: 32px;
+		a {
+			text-decoration: none;
+			width: 230px;
+			background-color: #13C98A;
+			padding: 15px 35px;
+			border-radius: 44px;
+			border: none;
+			outline: none;
+			font-size: 1rem;
+			color: #fff;
+			font-weight: 600;
+			transition: .2s background-color linear;
+			cursor: pointer;
+
+			&:hover {
+				background-color: #2E09B6;
+			}
+		}
+	}
+}
