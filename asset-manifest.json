@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/net-lab-ts/static/css/main.2ea231ab.css",
+    "main.js": "/net-lab-ts/static/js/main.4d989a57.js",
+    "static/media/LetoSans-Regular.eot": "/net-lab-ts/static/media/LetoSans-Regular.6355d35383c62a1be57c.eot",
+    "static/media/LetoSans-Bold.eot": "/net-lab-ts/static/media/LetoSans-Bold.ff800d165e729848da64.eot",
+    "static/media/LetoSans-Regular.ttf": "/net-lab-ts/static/media/LetoSans-Regular.d31048b1041e1574c944.ttf",
+    "static/media/LetoSans-Bold.ttf": "/net-lab-ts/static/media/LetoSans-Bold.0b4663b5360a9afc8585.ttf",
+    "static/media/LetoSans-Regular.woff": "/net-lab-ts/static/media/LetoSans-Regular.6d780ca26d32deb167da.woff",
+    "static/media/LetoSans-Bold.woff": "/net-lab-ts/static/media/LetoSans-Bold.f24ec8a7a51414f1705c.woff",
+    "static/media/LetoSans-Regular.woff2": "/net-lab-ts/static/media/LetoSans-Regular.7c20b57d0b14f2c2ff35.woff2",
+    "static/media/LetoSans-Bold.woff2": "/net-lab-ts/static/media/LetoSans-Bold.e5b6921435e971cfdd49.woff2",
+    "static/media/success.svg": "/net-lab-ts/static/media/success.633dfe9802bff9a96fccdbb1702b9d74.svg",
+    "static/media/warning.svg": "/net-lab-ts/static/media/warning.9419e72e0fac0d13eb98a51491882da5.svg",
+    "index.html": "/net-lab-ts/index.html",
+    "static/media/selectArrow.svg": "/net-lab-ts/static/media/selectArrow.8f1f177428403ee7ad70e14c260b17b9.svg",
+    "main.2ea231ab.css.map": "/net-lab-ts/static/css/main.2ea231ab.css.map",
+    "main.4d989a57.js.map": "/net-lab-ts/static/js/main.4d989a57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ea231ab.css",
+    "static/js/main.4d989a57.js"
+  ]
+}
